@@ -1,6 +1,7 @@
 ![Profile Banner](https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/main/assets/cyberland.jpg)
 
 # 💫 About Me:
+## Hey there ! I am Ankit Maity ! A final Year CS Student
 🔭 I’m currently working on AI-driven web apps and educational games<br>👯 I’m looking to collaborate on open-source React, Next.js, and Unreal Engine projects<br>🤝 I’m looking for help with integrating AI APIs into real-time simulations<br>🌱 I’m currently learning full-stack development with a focus on ML and cloud deployment<br>💬 Ask me about JavaScript, Python, game dev, or anything AI-related<br>⚡ Fun fact: I once built a crop simulator that recommends fertilizers using 3D models!
 
 
