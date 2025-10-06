@@ -1,6 +1,6 @@
 ![Profile Banner](https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/main/assets/ak.jpeg)
 
-# 💫 About Me:
+# About Me:
 ## Hey there ! I am Ankit Maity ! A final Year CS Student
 🔭 I’m currently working on AI-driven web apps and educational games<br>👯 I’m looking to collaborate on open-source React, Next.js, and Unreal Engine projects<br>🌱 I’m currently learning full-stack development with a focus on ML and cloud deployment<br>💬 Ask me about JavaScript, Python, game dev, or anything AI-related<br>
 
