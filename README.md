@@ -1,4 +1,4 @@
-![Profile Banner](https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/main/assets/cyberland.jpg)
+![Profile Banner](https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/main/assets/ak.jpeg)
 
 # 💫 About Me:
 ## Hey there ! I am Ankit Maity ! A final Year CS Student
