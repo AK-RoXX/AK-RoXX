@@ -33,7 +33,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-user-contribution-7c9170.netlify.app/api/gh?user=AK-RoXX&type=svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
