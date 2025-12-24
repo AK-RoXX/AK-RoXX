@@ -14,7 +14,18 @@
 - 🔭 I’m currently working on **Scalable Web Architectures**
 - 📚 I’m currently learning **System Design & Kubernetes**
 - 💬 Ask me about **React, Node.js, or C++**
-- ⚡ Fun fact: **I love game dev and coffee ☕**
+- ⚡ Fun fact: **I love Game Dev and Building Stuff**
+
+## 🥇 Achievements
+### Hackathons
+| 🏆 | *SIH 2024 Finalist*
+| 🏆 | *Nomura KakushIN 9.0 Finalist*
+| 🏆 | *RGIT Code4AI 4th place*
+
+### Certifications
+| ☁️ | *AWS Certified* | Cloud Practitioner and Architect Academy Graduate |
+| ☁️ | *Oracle Certified* | Cloud Infrastructure, Cloud Data Platform and GenAI Foundations|
+| ☁️ | *Google Certified* | Big Data Analytics, Multimodal Foundations and RAG|
 
 ## 🛠 My Tech Stack
 <p align="left">
