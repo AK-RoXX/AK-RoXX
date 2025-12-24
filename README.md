@@ -1,7 +1,7 @@
 # Hi there, I'm Ankit Maity 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Repo&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ## 💫 About Me
 - 🔭 I’m currently working on **Scalable Web Architectures**
-- 📚 I’m currently learning **Advanced System Design & Kubernetes**
+- 📚 I’m currently learning **System Design & Kubernetes**
 - 💬 Ask me about **React, Node.js, or C++**
-- ⚡ Fun fact: **I turn coffee into code ☕**
+- ⚡ Fun fact: **I love game dev and coffee ☕**
 
 ## 🛠 My Tech Stack
 <p align="left">
