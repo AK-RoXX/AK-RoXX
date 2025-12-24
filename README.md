@@ -18,14 +18,14 @@
 
 ## 🥇 Achievements
 ### Hackathons
-| 🏆 | *SIH 2024 Finalist*
-| 🏆 | *Nomura KakushIN 9.0 Finalist*
-| 🏆 | *RGIT Code4AI 4th place*
+| 🏆 | *SIH 2024 Finalist* <br>
+| 🏆 | *Nomura KakushIN 9.0 Finalist* <br>
+| 🏆 | *RGIT Code4AI 4th place* <br>
 
 ### Certifications
-| ☁️ | *AWS Certified* | Cloud Practitioner and Architect Academy Graduate |
-| ☁️ | *Oracle Certified* | Cloud Infrastructure, Cloud Data Platform and GenAI Foundations|
-| ☁️ | *Google Certified* | Big Data Analytics, Multimodal Foundations and RAG|
+| ☁️ | *AWS Certified* | Cloud Practitioner and Architect Academy Graduate |<br>
+| ☁️ | *Oracle Certified* | Cloud Infrastructure, Cloud Data Platform and GenAI Foundations|<br>
+| ☁️ | *Google Certified* | Big Data Analytics, Multimodal Foundations and RAG|<br>
 
 ## 🛠 My Tech Stack
 <p align="left">
