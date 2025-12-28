@@ -38,20 +38,16 @@
 
 ## 📈 GitHub Activity & Stats
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AK-RoXX&theme=radical&column=7&margin-w=15&margin-h=15" alt="Ankit's Trophies" />
-  </a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AK-RoXX&show_icons=true&theme=radical" alt="Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AK-RoXX&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Ankit's Stats" />
-  
-  <img src="https://streak-stats.demolab.com/?user=AK-RoXX&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
+  <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-RoXX&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-RoXX&theme=radical" alt="Streak" />
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AK-RoXX&theme=radical" alt="Trophies" />
+</p>>
 
 ### 🐍 Contribution Snake
 <p align="center">
