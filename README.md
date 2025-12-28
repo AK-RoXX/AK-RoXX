@@ -47,7 +47,7 @@
   <br/>
 
   <img src="https://github-profile-trophy.vercel.app/?username=AK-RoXX&theme=radical" alt="Trophies" />
-</p>>
+</p>
 
 ### 🐍 Contribution Snake
 <p align="center">
