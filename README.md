@@ -17,7 +17,7 @@
 - ⚡ Fun fact: **I love Game Dev and Building Stuff**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZicjZ0ZzR4ZnZ3bmZicjZ0ZzR4ZnZ3bmZicjZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZicjZ0ZzR4ZnZ3bmZicjZ0ZzR4ZnZ3bmZicjZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7PEPN9qh/giphy.gif" width="400" alt="Coding Animation" />
 </p>
 
 
