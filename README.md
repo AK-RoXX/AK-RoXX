@@ -38,8 +38,7 @@
 
 ## 📈 GitHub Activity & Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AK-RoXX&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Ankit's Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-RoXX&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AK-RoXX&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ### 🐍 Contribution Snake
