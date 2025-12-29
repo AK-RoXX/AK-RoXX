@@ -43,7 +43,7 @@
 
 ## 📈 GitHub Activity & Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AK-RoXX&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AK-RoXX&theme=radical" />
 </p>
 
 ### 🐍 Contribution Snake
