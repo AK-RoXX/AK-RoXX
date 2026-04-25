@@ -1,4 +1,4 @@
-# Hi there👋 
+# Hi there :D 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20Ankit%20Maity&fontSize=70&animation=fadeIn" />
@@ -10,11 +10,11 @@
 
 ---
 
-## 💫 About Me
-- 🔭 I’m currently working on **Scalable Web Architectures**
-- 📚 I’m currently learning **System Design & Kubernetes**
-- 💬 Ask me about **React, Node.js, or C++**
-- ⚡ Fun fact: **I love Game Dev and Building Stuff**
+##  About Me
+-  I’m currently working on **Scalable Web Architectures, Automation, MCPs**
+-  I’m currently learning **System Design & Microservices**
+-  Ask me about **React, Node.js, or C++**
+-  Fun fact: **I love Game Dev and Building (and breaking :P) Stuff**
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZicjZ0ZzR4ZnZ3bmZicjZ0ZzR4ZnZ3bmZicjZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
@@ -25,7 +25,6 @@
 ### Hackathons
 | 🏆 | *SIH 2024 Finalist* <br>
 | 🏆 | *Nomura KakushIN 9.0 Finalist* <br>
-| 🏆 | *RGIT Code4AI 4th place* <br>
 
 ### Certifications
 | ☁️ | *AWS Certified* | Cloud Practitioner and Architect Academy Graduate |<br>
