@@ -11,9 +11,8 @@
 ---
 
 ##  About Me
--  I’m currently working on **Scalable Web Architectures, Automation, MCPs**
--  I’m currently learning **System Design & Microservices**
--  Ask me about **React, Node.js, or C++**
+-  I’m currently working on **Artificial Intelligence and Machine Learning, Cloud Computing**
+-  I’m currently learning **Agentic AI, Automation, MCPs, System Design & Microservices**
 -  Fun fact: **I love Game Dev and Building (and breaking :P) Stuff**
 
 <p align="center">
