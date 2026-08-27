@@ -144,6 +144,7 @@ A machine-learning system designed to predict the resources required for beach c
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AK-RoXX&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
+
 ## 🌐 Connect with Me
 
 <p align="left">
