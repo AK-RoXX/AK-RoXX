@@ -121,7 +121,6 @@ A machine-learning system designed to predict the resources required for beach c
   </a>
 </p>
 
----
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
@@ -129,15 +128,22 @@ A machine-learning system designed to predict the resources required for beach c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-RoXX&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-RoXX&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
----
 
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AK-RoXX&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 ## 🌐 Connect with Me
 
 <p align="left">
