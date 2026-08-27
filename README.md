@@ -122,25 +122,20 @@ A machine-learning system designed to predict the resources required for beach c
 </p>
 
 ---
-
 ## 📈 GitHub Activity & Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AK-RoXX)
-
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AK-RoXX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-RoXX&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 📊 Activity Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AK-RoXX&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
