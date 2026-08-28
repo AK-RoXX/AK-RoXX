@@ -62,7 +62,7 @@ A research-oriented AI system for studying and identifying **microplastic pollut
 
 An educational game designed to raise awareness about **ocean pollution and marine conservation**, integrating real-world environmental data to create an interactive learning experience.
 
-**Tech:** `Unreal Engine` `Python` `INCOIS Data` `Game Development`
+**Tech:** `Unreal Engine 5` `Python` `INCOIS Data` `Game Development` `Animation`
 
 ---
 
@@ -72,7 +72,7 @@ An educational game designed to raise awareness about **ocean pollution and mari
 
 A browser-based 3D farm environment where users can interact with and visualize agricultural layouts, infrastructure, and farm components.
 
-**Tech:** `React` `Three.js` `JavaScript` `3D Visualization`
+**Tech:** `React` `Three.js` `JavaScript` `3D Visualization` `Langflow` `AstraDB` `RAG` `WebScraping`
 
 ---
 
@@ -82,17 +82,17 @@ A browser-based 3D farm environment where users can interact with and visualize 
 
 An intelligent travel planning application that generates personalized itineraries using AI while integrating **payments and agentic services** for a complete end-to-end experience.
 
-**Tech:** `Python` `Streamlit` `Gemini` `Razorpay` `AI`
+**Tech:** `Python` `Streamlit` `Gemini` `Razorpay` `AI` `Agno` `Serp`
 
 ---
 
-### 🧹 Smart Beach Cleanup
+### 🧹 Volunteering WebApp for Beach Cleanup events
 
-> **Data-Driven Coastal Cleanup Planning**
+> **Data-Driven Coastal Event Organisation and Cleanup Planning**
 
-A machine-learning system designed to predict the resources required for beach cleanup activities based on factors such as **weather, volunteers, duration, and cleanup conditions**.
+A Web Application with event organisation and a machine-learning system designed to predict the resources required for beach cleanup activities based on factors such as **weather, volunteers, duration, and cleanup conditions**. Powered by generative AI features like community post creation and posters generation.
 
-**Tech:** `Python` `Scikit-learn` `Random Forest` `XGBoost` `Machine Learning`
+**Tech:** `Python` `Scikit-learn` `Random Forest` `XGBoost` `Machine Learning` `GenerativeAI` `NextJS` `TailwindCSS`
 
 ---
 
