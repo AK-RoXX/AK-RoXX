@@ -10,11 +10,10 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🔭 I’m currently working on **Artificial Intelligence and Machine Learning, Cloud Computing**
-* 🌱 I’m currently learning **Agentic AI, Automation, MCPs, System Design & Microservices**
-* 🎮 Fun fact: **I love Game Dev and Building (and breaking :P) Stuff**
+Currently working on **Artificial Intelligence and Machine Learning, Cloud Computing** and learning about **Agentic AI, Automation, MCPs, System Design & Microservices**
+**I love Game Dev and Building (and breaking :P) Stuff**
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZicjZ0ZzR4ZnZ3bmZicjZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
@@ -22,9 +21,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 Agentic Learner
+### Agentic Learner
 
 > **Multi-Agent AI Learning Platform**
 
@@ -34,7 +33,7 @@ An AI-powered educational platform that uses **multi-agent orchestration** to pe
 
 ---
 
-### 📄 TransformoDocs
+### TransformoDocs
 
 > **AI-Powered Document Intelligence & Transformation Platform**
 
@@ -44,7 +43,7 @@ A unified document processing platform supporting **OCR, PDF manipulation, docum
 
 ---
 
-### 🌊 Microplastic Pollution Detection
+### Microplastic Pollution Detection
 
 > **Deep Learning for Marine Microplastic Analysis**
 
@@ -56,7 +55,7 @@ A research-oriented AI system for studying and identifying **microplastic pollut
 
 ---
 
-### 🏖️ Ocean Guardians
+### Ocean Guardians
 
 > **Interactive Marine Conservation Game**
 
@@ -66,7 +65,7 @@ An educational game designed to raise awareness about **ocean pollution and mari
 
 ---
 
-### 🌾 FarmAI - 3D Farm Simulator
+### FarmAI - 3D Farm Simulator
 
 > **Interactive 3D Agricultural Simulation**
 
@@ -76,7 +75,7 @@ A browser-based 3D farm environment where users can interact with and visualize 
 
 ---
 
-### 🧠 Travello - AI Travel Planner
+### Travello - AI Travel Planner
 
 > **AI-Powered Personalized Travel Planning**
 
@@ -86,7 +85,7 @@ An intelligent travel planning application that generates personalized itinerari
 
 ---
 
-### 🧹 Volunteering WebApp for Beach Cleanup events
+### Volunteering WebApp for Beach Cleanup events
 
 > **Data-Driven Coastal Event Organisation and Cleanup Planning**
 
