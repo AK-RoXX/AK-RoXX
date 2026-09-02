@@ -13,6 +13,7 @@
 ## About Me
 
 Currently working on **Artificial Intelligence and Machine Learning, Cloud Computing** and learning about **Agentic AI, Automation, MCPs, System Design & Microservices**
+<br>
 **I love Game Dev and Building (and breaking :P) Stuff**
 
 <p align="center">
