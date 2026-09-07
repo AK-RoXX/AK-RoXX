@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20Ankit%20Maity&fontSize=70&animation=fadeIn" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;C%2B%2B+Programmer" alt="Typing SVG" />
-</p>
-
 ---
 
 ## About Me
@@ -56,16 +51,6 @@ A research-oriented AI system for studying and identifying **microplastic pollut
 
 ---
 
-### Ocean Guardians
-
-> **Interactive Marine Conservation Game**
-
-An educational game designed to raise awareness about **ocean pollution and marine conservation**, integrating real-world environmental data to create an interactive learning experience.
-
-**Tech:** `Unreal Engine 5` `Python` `INCOIS Data` `Game Development` `Animation`
-
----
-
 ### FarmAI - 3D Farm Simulator
 
 > **Interactive 3D Agricultural Simulation**
@@ -83,16 +68,6 @@ A browser-based 3D farm environment where users can interact with and visualize 
 An intelligent travel planning application that generates personalized itineraries using AI while integrating **payments and agentic services** for a complete end-to-end experience.
 
 **Tech:** `Python` `Streamlit` `Gemini` `Razorpay` `AI` `Agno` `Serp`
-
----
-
-### Volunteering WebApp for Beach Cleanup events
-
-> **Data-Driven Coastal Event Organisation and Cleanup Planning**
-
-A Web Application with event organisation and a machine-learning system designed to predict the resources required for beach cleanup activities based on factors such as **weather, volunteers, duration, and cleanup conditions**. Powered by generative AI features like community post creation and posters generation.
-
-**Tech:** `Python` `Scikit-learn` `Random Forest` `XGBoost` `Machine Learning` `GenerativeAI` `NextJS` `TailwindCSS`
 
 ---
 
