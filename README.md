@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20Ankit%20Maity&fontSize=70&animation=fadeIn" />
 </p>
----
 
 ## About Me
 
