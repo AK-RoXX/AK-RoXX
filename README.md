@@ -16,17 +16,7 @@ Currently working on **Artificial Intelligence and Machine Learning, Cloud Compu
 
 ---
 
-## Featured Projects
-
-### Agentic Learner
-
-> **Multi-Agent AI Learning Platform**
-
-An AI-powered educational platform that uses **multi-agent orchestration** to personalize learning, generate explanations, assess understanding, and adapt learning paths dynamically.
-
-**Tech:** `Python` `Gemini` `Agentic AI` `LangChain` `RAG` `Vector DB`
-
----
+## Projects I have worked on
 
 ### TransformoDocs
 
@@ -106,14 +96,6 @@ An intelligent travel planning application that generates personalized itinerari
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-RoXX&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AK-RoXX/AK-RoXX/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
